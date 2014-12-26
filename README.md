@@ -2,7 +2,7 @@ smallapp
 ========
 
 Barebone Sails.js application to illustrate how easy it is to start writing business logic in Sails.js.
-Log each request to stdout using Express middleware.
+There is also an example of how to log each request to stdout using Express middleware.
 
 To run:
 
