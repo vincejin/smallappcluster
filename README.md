@@ -1,8 +1,7 @@
 smallapp
 ========
 
-Barebone Sails.js application to illustrate how easy it is to start writing business logic in Sails.js.
-There is also an example of how to log each request to stdout using Express middleware.
+Barebone Sails.js application to illustrate Node.js's cluster and how to run an app in multiple processes.
 
 To run:
 
