@@ -1,7 +1,10 @@
 smallappcluster
 ==============
 
-Barebone Sails.js application to illustrate Node.js's cluster and how to run an app in multiple processes.
+Example on how to achieve zero downtime deployment using Node.js cluster.
+Barebone Sails.js application running in multiple processes and listening for restart signal (SIGUSR2) to recycle 
+worker processes with newly deployed code.
+ 
 
 To run:
 
